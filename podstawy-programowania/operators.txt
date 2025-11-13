@@ -1,0 +1,10 @@
+Then, explain what operation you can perform using the following operators:
+
++ Addition used to add together two values
+* Multiplication Multiply will take x numbers as arguments, multiply them together
+** Exponentiation	This operator raises the left operand (base) to the power of the right operand (exponent)
+/ Division
+// Floor division + rounds the result down to the nearest whole number
+% Modulus
+> Greater than	
+<= Less than or equal to	
